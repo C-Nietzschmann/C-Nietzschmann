@@ -6,6 +6,8 @@ I'm working towards Electrical Engineering at ETH Zürich, specialising in AI (s
 **What I build:** systems that collect real-world data and use AI to cut energy waste —
 where software, hardware and energy meet.
 
+**Portfolio:** https://c-nietzschmann.github.io
+
 ## Currently building
 - **Grid Watch Balearics** — an automated pipeline that tracks the Balearic Islands' electricity demand and forecasts it *(starting December 2026)*
 - **VillaWatt** — an ESP32 energy monitor that spots wasted power in holiday rentals *(2027)*
